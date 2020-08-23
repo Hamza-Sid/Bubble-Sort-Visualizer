@@ -16,4 +16,4 @@ The inner loop is meant to compare each element to the next element in the array
 A standard swap method is used to swap any values for which the comparison returns true.
 This implementation uses a JavaScript framework based on processing called p5.js.
 
-Demo: https://editor.p5js.org/Hamza_sid/present/oeH_D1Taa
+Demo: https://editor.p5js.org/Hamza_sid/present/GFy27Z9Np
