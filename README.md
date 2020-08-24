@@ -1,7 +1,8 @@
 # Bubble-Sort-Visualizer
 
-About:
+Authors: Hamza Siddiqui
 
+About:
 Bubble Sort: Bubble Sort is a simple sorting algorithm that compares values that neighbor eachother in a data-set/structure. 
 Given two things to compare, once Bubble Sort sees that a comparison being tested is true, it swaps those values in the set. 
 This algorithm does O(n^2) time because of its reliance on a nested loop.
